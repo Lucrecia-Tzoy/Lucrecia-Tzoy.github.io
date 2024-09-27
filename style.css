@@ -1,0 +1,35 @@
+table{
+    border-collapse: collapse;
+    margin: 15px;
+}
+td{
+    background-color: rgb(102, 206, 247);
+    color: white;
+    border: solid 2px black;
+    padding: 18px;
+}
+th{
+    background-color: rgb(72, 192, 132);
+    color: white;
+    border: solid 2px black;
+    padding: 18px;
+} 
+td:hover{
+    background-color:blueviolet;
+}
+body{
+    background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(244,70,252,1) 80%);
+}
+ul:hover{
+    text-decoration: none;
+}
+li{
+    background-color:rgb(155, 227, 245);
+    margin: 15px;
+    display: inline-block;
+    padding: 8px;
+    text-align: center;
+    color: black;
+    margin-top: 25px;
+}
